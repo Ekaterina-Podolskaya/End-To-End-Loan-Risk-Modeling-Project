@@ -1,6 +1,6 @@
 # Loan Default Risk Analysis
 
-This end-to-end data analytics and machine learning project analyzes and models credit default risk using the Lending Club dataset (2007–2015) with over **2.26 million loan records**. The workflow combines Python (for data cleaning and modeling) with Power BI (for interactive business-focused dashboards). This project is built to meet professional standards expected by top-tier firms in data-driven finance and consulting.
+This end-to-end data analytics and machine learning project analyzes and models credit default risk using the Lending Club dataset (2007–2015) with over **2.26 million loan records**. The workflow combines Python (for data cleaning and modeling) with Power BI (for interactive business-focused dashboards). 
 
 ---
 
