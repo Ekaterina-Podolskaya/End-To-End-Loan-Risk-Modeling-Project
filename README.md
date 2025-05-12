@@ -148,7 +148,7 @@ Visualize model output and provide actionable insight to risk teams.
 ## Authorin
 **Ekaterina Podolskaya**  
 Aspiring Data Analyst • Business-oriented • Python & BI Enthusiast  
-[LinkedIn](www.linkedin.com/in/ekaterina-podolskaya) • [GitHub](https://github.com/Ekaterina-Podolskaya)
+[LinkedIn](https://www.linkedin.com/in/ekaterina-podolskaya) • [GitHub](https://github.com/Ekaterina-Podolskaya)
 
 ## Download Power BI Project
 [Download](https://drive.google.com/file/d/1l2QEDxex6JWsf5OMMZ6tC21hAr69Cx1U/view?usp=sharing)
