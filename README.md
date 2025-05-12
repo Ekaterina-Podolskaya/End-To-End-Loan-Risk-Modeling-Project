@@ -37,7 +37,7 @@ Prepare raw loan data for predictive modeling and BI reporting by cleaning, tran
 - Most loans were issued for 36 months with moderate interest rates.
 - Default rates vary significantly by grade — from **3.48% (Grade A)** to **38.49% (Grade G)**.
 
-📸 *Screenshot: Page 1 – Loan Portfolio Overview*
+![](Page%201.png)
 
 ---
 
@@ -55,7 +55,7 @@ Prepare raw loan data for predictive modeling and BI reporting by cleaning, tran
 - Lower grades (E, F, G) showed significantly higher risk and interest rates.
 - Loans with lower income-to-loan ratios were more likely to default.
 
-📸 *Screenshot: Page 2 – Risk Analysis*
+![](Page%202.png)
 
 ---
 
@@ -73,7 +73,7 @@ Prepare raw loan data for predictive modeling and BI reporting by cleaning, tran
 - Highest incomes were observed in loans issued for “Small Business” and “Home Improvement” purposes.
 - Borrowers with higher income-to-loan ratios and longer, known employment history tend to default less frequently.
 
-📸 *Screenshot: Page 3 – Customer Profile & Behavior*
+![](Page%203.png)
 
 ---
 
@@ -91,7 +91,7 @@ Prepare raw loan data for predictive modeling and BI reporting by cleaning, tran
 - Default rate peaked in 2015 and stabilized afterwards.
 - Borrowers with **4–6 years** of employment exhibited the **lowest default rates (~12%)**, while those with **8+ years** peaked at **14%,** suggesting that longer tenure doesn't always correlate with lower risk.
 
-📸 *Screenshot: Page 4 – Time Trend Analysis*
+![](Page%204.png)
 
 ---
 
@@ -134,7 +134,7 @@ Visualize model output and provide actionable insight to risk teams.
 - **Grades E, F, G** exhibit the highest predicted risks.
 - Risk assessment improves significantly with segmentation by both `term` and `grade`.
 
-📸 *Screenshot: Page 5 – Risk Prediction*
+![](Page%202.png)
 
 ---
 
