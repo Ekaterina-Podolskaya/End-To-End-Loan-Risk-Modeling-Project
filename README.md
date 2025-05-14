@@ -138,7 +138,7 @@ Visualize model output and provide actionable insight to risk teams.
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Python:** pandas, scikit-learn, matplotlib
 - **Power BI:** DAX, Power Query, Time Intelligence
 - **Jupyter Notebook**, GitHub
