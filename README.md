@@ -134,7 +134,7 @@ Visualize model output and provide actionable insight to risk teams.
 - **Grades E, F, G** exhibit the highest predicted risks.
 - Risk assessment improves significantly with segmentation by both `term` and `grade`.
 
-![](Page%202.png)
+![](Page%205.png)
 
 ---
 
